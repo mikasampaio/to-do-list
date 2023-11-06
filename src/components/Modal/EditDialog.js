@@ -5,7 +5,7 @@ import { HiOutlinePencilAlt } from 'react-icons/hi'
 import Modal from 'react-modal'
 import * as Yup from 'yup'
 
-import { Input } from '../../Containers/Home/styles'
+import { Input } from '../../components/Form/styles'
 import Button from '../Button'
 import {
   ErrorMessage,
